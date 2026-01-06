@@ -53,6 +53,3 @@ Write-Host "Variáveis de sistema restauradas. Reinicie o Windows."
 ```
 $env:Path | Out-File "$HOME\path-backup.txt"
 ```
----
-Lista de Programas para serem instalados
-
