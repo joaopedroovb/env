@@ -1,0 +1,3 @@
+env-machine.json filter=git-crypt diff=git-crypt
+env-user.json filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
